@@ -18,3 +18,5 @@ Please cite the paper as follows:
         author={Raphael Schneider and Daniel Honerkamp and Tim Welschehold and Abhinav Valada},
         year={2024},
     }
+
+**UPDATE:** We have released the code as a branch in the original N2M2 repository, which you can find here: https://github.com/robot-learning-freiburg/mobile-rl/tree/moma-codesign
